@@ -1,9 +1,9 @@
 <div align="center">
 
-<div style="text-align: center; margin-bottom: 1em;">
-  <div style="color: #ff6b35; font-weight: bold; font-size: 2em; margin: 0; padding: 0;">Martian World Models</div>
-  <div style="color: #333; font-weight: 300; font-size: 1.8em; margin: 0; padding: 0; margin-top: 0.3em;">Controllable Video Synthesis with Physically Accurate 3D Reconstructions</div>
-</div>
+<p align="center">
+  <span style="color: #ff6b35; font-weight: bold; font-size: 2em;"> Martian World Models</span><br>
+  <span style="font-size: 1.8em; color: #666;">Controllable Video Synthesis with Physically Accurate 3D Reconstructions</span>
+</p>
 
 <!-- [![Paper](https://img.shields.io/badge/Paper-arXiv-red.svg)](https://arxiv.org/abs/your-paper-id) -->
 [![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)](https://marsgenai.github.io/)
