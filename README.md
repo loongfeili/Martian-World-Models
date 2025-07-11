@@ -9,17 +9,5 @@
 </h5>
 
 
-## Introduction
 
-Martian World Models introduces a comprehensive solution for synthesizing realistic Martian landscape videos, addressing the critical need for mission rehearsal and robotic simulation in planetary exploration.
-
-
-
-
-## Installation
-
-Detailed installation instructions coming soon.
-
-## Usage
-
-Comprehensive usage examples coming soon.
+The code will be released soon.
